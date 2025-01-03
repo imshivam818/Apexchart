@@ -47,15 +47,15 @@ export class AppComponent {
       },
       xaxis: {
         categories: [
-          "South Korea",
+          "South",
           "Canada",
           "United Kingdom",
-          "Netherlands",
-          "Italy",
-          "France",
-          "Japan",
+      "uttar prades",
+          "telengana",
+          "police",
+          "america",
           "United States",
-          "China",
+          "g",
           "Germany"
         ]
       }
